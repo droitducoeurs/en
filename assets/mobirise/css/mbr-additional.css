@@ -1,0 +1,89 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+
+
+
+
+#ext_menu-3 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-3.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-3 .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-3 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#content5-6 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #000000;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 46px;
+}
+#content5-6 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-6 .mbr-article {
+  color: #fff;
+}
+#header4-8 H1 {
+  color: #000000;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+#header4-8 P {
+  color: #000000;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+#header4-8 .btn {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 19px;
+}
+
+
+
+#header4-9 H1 {
+  color: #000000;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+#header4-9 P {
+  color: #000000;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 20px;
+}
+#header4-9 .btn {
+  font-size: 20px;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+
+#header4-1 H1 {
+  color: #000000;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+#header4-1 P {
+  color: #000000;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+
+
+#header4-10 H1 {
+  color: #000000;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+#header4-10 P {
+  color: #000000;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+#header4-10 .btn {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#slider-2 H1 {
+  color: #000000;
+  text-align: left;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 20px;
+}
