@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "tolsoty1.html",
+    "currentPage": "meltingman1.html",
     "versionFirst": "2.10",
     "versionPublish": "3.12.1",
     "name": "The Frogs and the Hares EN",
@@ -337,7 +337,7 @@
             "showArrow": false
           },
           "title": "Melting man",
-          "text": "Het verhaal over een man wiens huid uitrekt.<br>Hij probeert zichzelf bij elkaar te houden door middel van touw.<br>Hij is het zat hoe hij behandeld wordt door zijn medemens en loopt weg.<br>Dit is zijn reis naar vrijheid.",
+          "text": "<br>The story of a man whose skin stretches.<br>He tries to keep himself together by using rope.<br>He is tired of how he is treated by his fellow residents and runs away.<br>This is his journey to freedom.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">preview</a> "
         }
       ]
