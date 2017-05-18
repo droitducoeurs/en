@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "meltingman1.html",
+    "currentPage": "tekeningen1.html",
     "versionFirst": "2.10",
     "versionPublish": "3.12.1",
     "name": "The Frogs and the Hares EN",
@@ -387,8 +387,8 @@
             "showButtons": true,
             "showArrow": false
           },
-          "title": "Voorlees <br>tekeningen",
-          "text": "In het atelier wordt tweemaal per week voorgelezen. <br>Tijdens het voorlezen gaat onze fantasie met het verhaal op de loop. <br>Hier vindt u een glimp van wat daar ontstaat.<br>",
+          "title": "'Read To'&nbsp;<br>Drawings",
+          "text": "In the studio the teacher is reading twice a week.<br>During these readings, our fantasy goes along with the story.<br>Here you will find a glimpse of what is happening in my head during the reading.",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"tekeningen2.html\" data-toolbar=\"-mbrBtnMove\">preview</a> "
         }
       ]
