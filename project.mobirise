@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "meltingman2.html",
     "versionFirst": "2.10",
     "versionPublish": "3.12.1",
     "name": "The Frogs and the Hares EN",
@@ -11,7 +11,7 @@
     },
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "uniqCompNum": 4,
+    "uniqCompNum": 5,
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-99000931-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
@@ -548,6 +548,50 @@
           },
           "_anchor": "slider-2",
           "articleLayout": false
+        }
+      ]
+    },
+    "meltingman2.html": {
+      "settings": {
+        "title": "Site Builder Title",
+        "meta_descr": "Site Builder Description"
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-4",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "title": "MOBIRISE WEBSITE BUILDER",
+          "text": "Coming soon",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
         }
       ]
     }
