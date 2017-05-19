@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "meltingman1.html",
+    "currentPage": "meltingman2.html",
     "versionFirst": "2.10",
     "versionPublish": "3.12.1",
     "name": "The Frogs and the Hares EN",
@@ -564,6 +564,13 @@
           ],
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header4",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            }
+          },
           "_anchor": "header4-4",
           "_params": {
             "parallax": true,
@@ -586,12 +593,7 @@
           },
           "title": "MOBIRISE WEBSITE BUILDER",
           "text": "Coming soon",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>"
         }
       ]
     }
